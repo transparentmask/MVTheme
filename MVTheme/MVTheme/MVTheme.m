@@ -46,7 +46,7 @@
 }
 
 - (MVTheme *)baseTheme {
-    if(!_baseTheme) {
+    if(_baseThemeName && !_baseTheme) {
         _baseTheme = [[MVThemeManager sharedManager] themeWithName:self.baseThemeName];
     }
     
