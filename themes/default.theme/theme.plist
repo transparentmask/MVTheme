@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MVThemeName</key>
+	<string>DefaultTheme</string>
+	<key>MVThemeItems</key>
+	<dict>
+		<key>CommonColor</key>
+		<string>#1E84FB</string>
+		<key>CommonSeparatorColor</key>
+		<string>#F2F3F4</string>
+		<key>NaviBarTextColor</key>
+		<string>#FFFFFF</string>
+		<key>NaviBarBackgroundColor</key>
+		<string>#1E84FB</string>
+		<key>TableViewBackgroundColor</key>
+		<string>#EBEBEB</string>
+		<key>TableViewCellBackgroundColor</key>
+		<string>#FFFFFF</string>
+		<key>TableViewCellSelectBackgroundColor</key>
+		<string>#7dc9fa</string>
+		<key>TableViewSeparatorColor</key>
+		<string>#D1D1D1</string>
+		<key>LoginButtonColor</key>
+		<string>#1E84FB</string>
+		<key>LogoutButtonColor</key>
+		<string>#FE7373</string>
+		<key>OKButtonColor</key>
+		<string>#FEA63A</string>
+		<key>ButtonTextColor</key>
+		<string>#FFFFFF</string>
+		<key>ButtonTextDisabledColor</key>
+		<string>#AAAAAA</string>
+		<key>MapButtonBackgroundColor</key>
+		<string>#F6F6F6</string>
+		<key>MapButtonHighlightMaskColor</key>
+		<string>#000000,0.4</string>
+		<key>MapButtonForegroundColor</key>
+		<string>#767676</string>
+		<key>MapButtonBorderColor</key>
+		<string>#C8C8C8</string>
+		<key>MapBarBackgroundColor</key>
+		<string>#C8C8C8</string>
+		<key>MapBarSeparatorColor</key>
+		<string>#C7C7C6</string>
+		<key>SearchViewBackgroundColor</key>
+		<string>#EEEEEE</string>
+		<key>FavoriteIconColor</key>
+		<string>#E3CF7A</string>
+		<key>ThumbsUpColor</key>
+		<string>#FF4800</string>
+		<key>ThumbsDownColor</key>
+		<string>#00C000</string>
+		<key>DarkTextColor</key>
+		<string>#121212</string>
+		<key>GrayTextColor</key>
+		<string>#969696</string>
+	</dict>
+</dict>
+</plist>
