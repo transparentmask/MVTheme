@@ -131,6 +131,10 @@
 
 - (id)propertyWithName:(NSString *)key {
     id property = self.items[key];
+    while([self.items objectForKey:property]) {
+        property = self.items[property];
+    }
+    
     if(!property) {
         property = [self.baseTheme propertyWithName:key];
     }
